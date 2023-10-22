@@ -129,7 +129,7 @@ See https://github.com/yzhang-gh/vscode-markdown/issues/723#issuecomment-6423881
 
 - The [programme's official website](https://london.ac.uk/courses/computer-science).
 - The [programme's page on Coursera](https://www.coursera.org/degrees/bachelor-of-science-computer-science-london).
-- The [r/UniversityOfLondonCS](https://www.reddit.com/r/UniversityOfLondonCS/) subreddit and the [discord server](https://discord.gg/zDpffJQ) where actual students answer questions.
+- The [r/UniversityOfLondonCS](https://www.reddit.com/r/UniversityOfLondonCS/) subreddit and the [discord server](https://discord.gg/GhRFG5X) where actual students answer questions.
 
 ### Who has enrolled in this degree so far
 
@@ -549,9 +549,8 @@ Some of the questions that can be answered by reading the programme regulations:
 
 > In one UoL's correspondence it said that we would need to reach out to our professor if we wanted to monetize it. How would we go about that for this degree being online?
 
-The section of the University’s Intellectual Property Rights Policy that specifically addresses your question is Part E. Please see [https://london.ac.uk/sites/default/files/governance/intellectualpropertypolicy.pdf](https://london.ac.uk/sites/default/files/governance/intellectualpropertypolicy.pdf).
-
-If you have any specific queries about something you have created which you are interested in publishing, please contact us via the support email <BscCs-support@london.ac.uk> and we can look into this further for you.
+- The section of the University’s Intellectual Property Rights Policy that specifically addresses your question is Part E. Please see [University of London – Policy on Intellectual Property Rights](https://london.ac.uk/sites/default/files/governance/intellectualpropertypolicy.pdf).
+- If you have any specific queries about something you have created which you are interested in publishing, please contact us via the support email <BscCs-support@london.ac.uk> and we can look into this further for you.
 
 ### Are there opportunities for students to gain some form of work experience in the industry or even undergo internships during the course
 
@@ -604,7 +603,7 @@ You can find the up-to-date list of certificates eligible for automatic RPL [her
 
 ### Can we still apply RPL for Google IT Support course anytime during this semester or next
 
-- You can apply at any time before you take your first level 5 module. Beware that RPL will take some time to be proceeded.
+- You can apply at any time before you take your first level 5 module. To study modules at level 5, you need to have attempted all modules at level 4 first or — in the case of a RPL for How Computers Work — have that module approved by the university _before_ you can register for new modules as it would not count as an attempt yet (since it is being attempted outside UoL and not yet validated). **Beware that the university may take some time to process your application for RPL**: a RPL yet to be approved will prevent you from registering modules at level 5 (this applies to any other modules at level 4, too). See the progression rules in the programme regulations for details.
 
 ### Does a possible RPL only get considered if it is from another university, or could the content (syllabus) of other certifications be looked at for possible matching/consideration
 
